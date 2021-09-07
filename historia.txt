@@ -8,9 +8,6 @@ Experimento 2
 
 Master 1
 
-<<<<<<< HEAD
 Master 2
-=======
->>>>>>> c346414 (Exp 2)
 
 Mañana nos enfocaremos en su vida laboral
